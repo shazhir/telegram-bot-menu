@@ -3,7 +3,9 @@
   "version": "1.0.1",
   "description": "",
   "main": "bot.js",
-  "node": "14.0",
+  "engines": {
+    "node": "14.0"
+  }
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
