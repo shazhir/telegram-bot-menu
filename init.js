@@ -6,7 +6,7 @@ var MODE = 0;
 		0 - default mode with menu
 		1 - edit mode with expand menu
 */
-var TOKEN = '';
+var TOKEN = '1211960630:AAF5OogMB0R-ExPDTYP8s1k8kcO-KI0Gdo0';
 var DELIMETER = ':::';
 var DATA_FOLDER;
 
