@@ -22,7 +22,6 @@
   "dependencies": {
     "node-emoji": "^1.8.1",
     "node-telegram-bot-api": "^0.30.0",
-    "socks5-https-client": "^1.2.1",
-    "apt-get install sed": ""
+    "socks5-https-client": "^1.2.1"
   }
 }
