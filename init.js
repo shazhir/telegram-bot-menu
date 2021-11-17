@@ -13,7 +13,7 @@ var DATA_FOLDER;
 var buttons = {};
 var menu = {};
 var menu_root;
-var admins = [];
+var admins = [257486800];
 
 var proxy = {
 	'host': '',
