@@ -23,6 +23,6 @@
     "node-emoji": "^1.8.1",
     "node-telegram-bot-api": "^0.30.0",
     "socks5-https-client": "^1.2.1",
-    "node apt-get install sed": ""
+    "sudo apt-get install sed": ""
   }
 }
