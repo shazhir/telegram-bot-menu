@@ -1,2 +1,2 @@
-web: node bot.js
-worker: node bot.js
+web: node bot.js menu botdata
+worker: node bot.js menu botdata
