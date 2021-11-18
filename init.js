@@ -1,6 +1,6 @@
 var bot = module.parent.exports;
 
-var MODE = 1;
+var MODE = 0;
 /*
 	MODE:
 		0 - default mode with menu
